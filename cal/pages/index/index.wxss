@@ -1,0 +1,4 @@
+/**index.wxss**/
+.window{
+  color:#4993fa;
+}
